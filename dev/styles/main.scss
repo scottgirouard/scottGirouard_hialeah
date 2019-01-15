@@ -34,7 +34,8 @@ body {
 
 header {
 	background: url(/dev/milieu.png) no-repeat center center fixed;
-	height: 150vh;
+	height: 145vh;
+	padding-top: 33px;
 }
 
 
@@ -43,7 +44,7 @@ h1 {
 	flex-direction: row;
 	text-align: center;
 	line-height: 15px;
-	font-size: 38px;
+	font-size: 35px;
 	font-family: STIXGeneralItalic;
 	// position: fixed;
 }
