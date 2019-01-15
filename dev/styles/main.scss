@@ -15,12 +15,12 @@
 
 @font-face {
     font-family: STIXGeneralItalic;
-    src: url(/dev/STIXGeneralItalic.otf);
+    src: url(./dev/STIXGeneralItalic.otf);
 }
 
 body {
 	// background: url(/dev/milieu.png) no-repeat center center fixed;
-	background-image: url(/dev/milieu.png);
+	background-image: url(./dev/milieu.png);
 	// background-position: fixed;
 	// height: 150vh;
 	// background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body {
 }
 
 header {
-	background: url(/dev/milieu.png) no-repeat center center fixed;
+	background: url(./dev/milieu.png) no-repeat center center fixed;
 	height: 145vh;
 	padding-top: 33px;
 }
